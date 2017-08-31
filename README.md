@@ -1,1 +1,1 @@
-# obenkyo-rails-tutorial
+[Ruby on Rails Tutorial](https://railstutorial.jp/)をやってます。
